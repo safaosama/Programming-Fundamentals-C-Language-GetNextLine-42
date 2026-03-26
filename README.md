@@ -144,5 +144,6 @@ All code was written, tested, and validated independently in compliance with 42 
 
 ## ✨ Author
 
-Developed by a student at **42 Irbid** as part of the 42 curriculum.
+👨‍💻 Developed by **Safa Osama**  
+🎓 Student at **42 Irbid** 
 
